@@ -1,8 +1,4 @@
-Aqui está tudo formatado **pronto para colar direto no seu `README.md`**, com tabelas, blocos de código e títulos organizados corretamente:
 
----
-
-````markdown
 # 📚 CRUD de Produtos com Testes Automatizados (Mockito, JUnit, JMeter)
 
 Este projeto é uma API RESTful desenvolvida em **Spring Boot** para gerenciamento de dados de **Produtos (CRUD)**, com foco na qualidade e estabilidade através de diferentes camadas de testes automatizados.
@@ -112,14 +108,5 @@ Passos:
 Contribuições são bem-vindas!
 Se encontrou um bug ou tem uma sugestão de melhoria, abra uma **Issue** ou envie um **Pull Request**.
 
-### Processo de envio
-
-```bash
-# Registro das alterações
-git commit -m "feat: Adiciona nova funcionalidade X"
-
-# Envio para o repositório (branch ou fork)
-git push origin nome-da-sua-branch
-```
 
 
